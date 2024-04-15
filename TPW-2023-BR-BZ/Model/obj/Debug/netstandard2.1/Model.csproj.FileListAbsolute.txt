@@ -1,0 +1,60 @@
+C:\Users\48534\Downloads\TPW-2023-1\TPW-2023-1\Model\bin\Debug\netstandard2.1\Model.deps.json
+C:\Users\48534\Downloads\TPW-2023-1\TPW-2023-1\Model\bin\Debug\netstandard2.1\Model.dll
+C:\Users\48534\Downloads\TPW-2023-1\TPW-2023-1\Model\bin\Debug\netstandard2.1\Model.pdb
+C:\Users\48534\Downloads\TPW-2023-1\TPW-2023-1\Model\bin\Debug\netstandard2.1\Data.dll
+C:\Users\48534\Downloads\TPW-2023-1\TPW-2023-1\Model\bin\Debug\netstandard2.1\Logic.dll
+C:\Users\48534\Downloads\TPW-2023-1\TPW-2023-1\Model\bin\Debug\netstandard2.1\Logic.pdb
+C:\Users\48534\Downloads\TPW-2023-1\TPW-2023-1\Model\bin\Debug\netstandard2.1\Data.pdb
+C:\Users\48534\Downloads\TPW-2023-1\TPW-2023-1\Model\obj\Debug\netstandard2.1\Model.csproj.AssemblyReference.cache
+C:\Users\48534\Downloads\TPW-2023-1\TPW-2023-1\Model\obj\Debug\netstandard2.1\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48534\Downloads\TPW-2023-1\TPW-2023-1\Model\obj\Debug\netstandard2.1\Model.AssemblyInfoInputs.cache
+C:\Users\48534\Downloads\TPW-2023-1\TPW-2023-1\Model\obj\Debug\netstandard2.1\Model.AssemblyInfo.cs
+C:\Users\48534\Downloads\TPW-2023-1\TPW-2023-1\Model\obj\Debug\netstandard2.1\Model.csproj.CoreCompileInputs.cache
+C:\Users\48534\Downloads\TPW-2023-1\TPW-2023-1\Model\obj\Debug\netstandard2.1\Model.csproj.CopyComplete
+C:\Users\48534\Downloads\TPW-2023-1\TPW-2023-1\Model\obj\Debug\netstandard2.1\Model.dll
+C:\Users\48534\Downloads\TPW-2023-1\TPW-2023-1\Model\obj\Debug\netstandard2.1\Model.pdb
+C:\Users\48534\Desktop\repo\P_WSPOLBIEZNE_BR_BZ\TPW-2023-1\Model\bin\Debug\netstandard2.1\Model.deps.json
+C:\Users\48534\Desktop\repo\P_WSPOLBIEZNE_BR_BZ\TPW-2023-1\Model\bin\Debug\netstandard2.1\Model.dll
+C:\Users\48534\Desktop\repo\P_WSPOLBIEZNE_BR_BZ\TPW-2023-1\Model\bin\Debug\netstandard2.1\Model.pdb
+C:\Users\48534\Desktop\repo\P_WSPOLBIEZNE_BR_BZ\TPW-2023-1\Model\bin\Debug\netstandard2.1\Data.dll
+C:\Users\48534\Desktop\repo\P_WSPOLBIEZNE_BR_BZ\TPW-2023-1\Model\bin\Debug\netstandard2.1\Logic.dll
+C:\Users\48534\Desktop\repo\P_WSPOLBIEZNE_BR_BZ\TPW-2023-1\Model\bin\Debug\netstandard2.1\Logic.pdb
+C:\Users\48534\Desktop\repo\P_WSPOLBIEZNE_BR_BZ\TPW-2023-1\Model\bin\Debug\netstandard2.1\Data.pdb
+C:\Users\48534\Desktop\repo\P_WSPOLBIEZNE_BR_BZ\TPW-2023-1\Model\obj\Debug\netstandard2.1\Model.csproj.AssemblyReference.cache
+C:\Users\48534\Desktop\repo\P_WSPOLBIEZNE_BR_BZ\TPW-2023-1\Model\obj\Debug\netstandard2.1\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48534\Desktop\repo\P_WSPOLBIEZNE_BR_BZ\TPW-2023-1\Model\obj\Debug\netstandard2.1\Model.AssemblyInfoInputs.cache
+C:\Users\48534\Desktop\repo\P_WSPOLBIEZNE_BR_BZ\TPW-2023-1\Model\obj\Debug\netstandard2.1\Model.AssemblyInfo.cs
+C:\Users\48534\Desktop\repo\P_WSPOLBIEZNE_BR_BZ\TPW-2023-1\Model\obj\Debug\netstandard2.1\Model.csproj.CoreCompileInputs.cache
+C:\Users\48534\Desktop\repo\P_WSPOLBIEZNE_BR_BZ\TPW-2023-1\Model\obj\Debug\netstandard2.1\Model.csproj.CopyComplete
+C:\Users\48534\Desktop\repo\P_WSPOLBIEZNE_BR_BZ\TPW-2023-1\Model\obj\Debug\netstandard2.1\Model.dll
+C:\Users\48534\Desktop\repo\P_WSPOLBIEZNE_BR_BZ\TPW-2023-1\Model\obj\Debug\netstandard2.1\Model.pdb
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\bin\Debug\netstandard2.1\Model.deps.json
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\bin\Debug\netstandard2.1\Model.dll
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\bin\Debug\netstandard2.1\Model.pdb
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\bin\Debug\netstandard2.1\Data.dll
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\bin\Debug\netstandard2.1\Logic.dll
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\bin\Debug\netstandard2.1\Logic.pdb
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\bin\Debug\netstandard2.1\Data.pdb
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\obj\Debug\netstandard2.1\Model.csproj.AssemblyReference.cache
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\obj\Debug\netstandard2.1\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\obj\Debug\netstandard2.1\Model.AssemblyInfoInputs.cache
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\obj\Debug\netstandard2.1\Model.AssemblyInfo.cs
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\obj\Debug\netstandard2.1\Model.csproj.CoreCompileInputs.cache
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\obj\Debug\netstandard2.1\Model.csproj.CopyComplete
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\obj\Debug\netstandard2.1\Model.dll
+C:\Users\48534\Desktop\REPOZYTORIUM NOWE\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\obj\Debug\netstandard2.1\Model.pdb
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\bin\Debug\netstandard2.1\Model.deps.json
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\bin\Debug\netstandard2.1\Model.dll
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\bin\Debug\netstandard2.1\Model.pdb
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\bin\Debug\netstandard2.1\Data.dll
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\bin\Debug\netstandard2.1\Logic.dll
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\bin\Debug\netstandard2.1\Logic.pdb
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\bin\Debug\netstandard2.1\Data.pdb
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\obj\Debug\netstandard2.1\Model.csproj.AssemblyReference.cache
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\obj\Debug\netstandard2.1\Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\obj\Debug\netstandard2.1\Model.AssemblyInfoInputs.cache
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\obj\Debug\netstandard2.1\Model.AssemblyInfo.cs
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\obj\Debug\netstandard2.1\Model.csproj.CoreCompileInputs.cache
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\obj\Debug\netstandard2.1\Model.csproj.CopyComplete
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\obj\Debug\netstandard2.1\Model.dll
+F:\SEM4\PWSP\P_WSPOLBIEZNE_BR_BZ\TPW-2023-BR-BZ\Model\obj\Debug\netstandard2.1\Model.pdb
